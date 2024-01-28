@@ -6,6 +6,7 @@ Little programs to learn Golang =)
 
 1. [hello-service](./cmd/hello-service/)
 2. [pp](./cmd/pp)
+3. [sites-healthcheck](./cmd/sites-healthcheck)
 
 ## Local run
 
