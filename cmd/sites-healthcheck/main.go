@@ -22,6 +22,7 @@ func main() {
 		fmt.Println(status)
 	}
 }
+
 func parallelCheck(urls []string, wg *sync.WaitGroup) []int {
 	defer wg.Done()
 	urls_count := len(urls)
